@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/BrowserPioneer.Api/.config
+/BrowserPioneer.Api/appsettings.Production.json
+/BrowserPioneer.Api/CrawlerPioneer.Api.http
